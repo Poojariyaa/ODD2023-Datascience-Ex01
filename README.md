@@ -109,9 +109,8 @@ df.isnull().sum()
 ### NON NULL AFTER:
 ![image](https://github.com/Poojariyaa/Data_cleaning/assets/127511817/4cb95fba-311e-4c0f-ad54-9388cf2af8a8)
 
-
-
-
+# Result
+Thus data set is cleaned successfully.
 
 
 
